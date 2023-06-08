@@ -1,0 +1,50 @@
+
+#services{
+  margin-left: 4px;
+  padding: 0;
+}
+
+header{
+  background: #061130;
+  padding-top: 11px;
+  padding-left: 17px;
+}
+h1{
+color: white;  
+}
+
+
+
+.tab-section{
+  font-size: 6px;
+  padding-right: 17px ;
+}
+
+.services-p{
+  color: #fafd61;
+}
+
+.service-subtext{
+  color: white;
+  font-size: x-large;
+}
+
+.sub-subtext{
+  color: white;
+  font-size: medium;
+}
+
+.services-p,.service-subtext, .sub-subtext{
+  margin-left: 30px;
+  padding: 0 40px;
+}
+/* .world-image{ 
+ size: 30px;
+} */
+
+.display-flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
